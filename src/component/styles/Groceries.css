@@ -1,0 +1,7 @@
+.groceries {
+  margin: 0 10%;
+  height: auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}

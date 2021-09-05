@@ -1,0 +1,32 @@
+.groceries-list {
+  height: 16vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: tomato;
+  margin: 0 10%;
+}
+
+form input {
+  margin-left: 10px;
+  background-color: sandybrown;
+  font-size: 1rem;
+}
+
+form label {
+  font-size: 1.2rem;
+  font-weight: 600;
+  margin-left: 10px;
+}
+
+form button {
+  width: 100px;
+  height: 25px;
+  border-radius: 10px;
+  outline: none;
+  font-size: 1rem;
+  font-weight: 700;
+  background-color: rgb(70, 49, 49);
+  color: bisque;
+}

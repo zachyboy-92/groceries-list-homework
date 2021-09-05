@@ -1,0 +1,12 @@
+.groceries-item {
+  background-color: coral;
+  width: 20vw;
+  height: 10vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
+
+.groceries-item li {
+  list-style: none;
+}
